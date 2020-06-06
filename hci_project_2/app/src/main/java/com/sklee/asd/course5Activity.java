@@ -1,6 +1,8 @@
 package com.sklee.asd;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -37,6 +39,29 @@ public class course5Activity extends AppCompatActivity {
                 startActivityForResult(intent, 106);
             }
         });
+
+        Button tip = (Button) findViewById(R.id.tip);
+        tip.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v){
+                showMessage();
+            }
+        });
+    }
+
+    public void showMessage(){
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("Tip");
+        builder.setMessage("고춧가루를 미리 불린 후 만들어주면 국물에 떠다니지 않고 깔끔하답니다.");
+        builder.setIcon(android.R.drawable.ic_dialog_alert);
+
+        builder.setPositiveButton("화이팅", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+            }
+        });
+
+        AlertDialog dialog = builder.create();
+        dialog.show();
     }
 
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
