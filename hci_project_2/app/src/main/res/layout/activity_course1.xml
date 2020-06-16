@@ -6,11 +6,26 @@
     android:layout_height="match_parent"
     tools:context=".course1Activity">
 
+    <Button
+        android:id="@+id/btn_ent"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginBottom="68dp"
+        android:text="Speak"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:layout_constraintVertical_bias="0.254" />
+
     <TextView
         android:id="@+id/d"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="떡볶이"
+        android:textColor="@android:color/holo_red_dark"
         android:textSize="40dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -36,6 +51,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="course1"
+        android:textColor="@android:color/black"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -90,12 +106,13 @@
         android:layout_height="wrap_content"
         android:layout_margin="15dp"
         android:text="붙어있는 쌀떡을 뗴어낸 후 10분동안 찬물에 담가주세요."
+        android:textSize="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView2"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.069" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
