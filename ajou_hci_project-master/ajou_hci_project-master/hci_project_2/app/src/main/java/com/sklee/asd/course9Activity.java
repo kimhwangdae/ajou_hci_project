@@ -17,11 +17,21 @@ import java.util.Locale;
 public class course9Activity extends AppCompatActivity {
     private TextToSpeech textToSpeech;
     private Button btnEnter;
+    private Button btn_Timer2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_course9);
+
+        btn_Timer2=(Button)findViewById(R.id.bnt_Timer2);
+        btn_Timer2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(course9Activity.this,Timer.class);
+                startActivity(intent);
+            }
+        });
 
         textToSpeech = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
             @Override
