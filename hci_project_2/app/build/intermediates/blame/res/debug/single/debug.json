@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_finish.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\finish.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intent1.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_intent1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course7.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course7.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_a.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course3.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course6.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course6.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course12.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course12.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hansik.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\hansik.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ingredients.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\ingredients.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course6.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yangsik.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\yangsik.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course7.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course7.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dduck.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\dduck.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course2.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bibib.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\bibib.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_choi.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\choi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course8.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course8.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course10.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course10.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_b.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dduk.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\dduk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course13.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course13.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course3.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course13.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course13.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intent3.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_intent3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course5.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course1.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pumpkin.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\pumpkin.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kitchen.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\kitchen.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course10.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course10.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course11.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course11.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jongsik.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\jongsik.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course9.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course9.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_c.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course4.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course4.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a0000338_main.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\a0000338_main.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course1.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intent2.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_intent2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course9.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course9.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course2.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course4.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course12.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course12.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_finish.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_finish.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course5.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course5.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_course11.PNG.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\course11.PNG"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bulgo.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable\\bulgo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_idea.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\drawable-v24\\idea.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course8.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\ajou_hci_project\\hci_project_2\\app\\src\\main\\res\\layout\\activity_course8.xml"
+    }
+]

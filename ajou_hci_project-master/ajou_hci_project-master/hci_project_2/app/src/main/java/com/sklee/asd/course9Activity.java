@@ -62,15 +62,12 @@ public class course9Activity extends AppCompatActivity {
         Button pre = (Button) findViewById(R.id.pre);
         pre.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                Intent intent = new Intent();
-                intent.putExtra("name", "이전 페이지입니다.");
-
-                setResult(Activity.RESULT_OK, intent);
-
-                finish();
+            public void onClick(View view) {
+                Intent intent = new Intent(course9Activity.this,course8Activity.class);
+                startActivity(intent);
             }
         });
+
         Button next = (Button) findViewById(R.id.next);
         next.setOnClickListener(new View.OnClickListener() {
             @Override
