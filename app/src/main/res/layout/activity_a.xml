@@ -56,7 +56,7 @@
         android:layout_width="200dp"
         android:layout_height="50dp"
         android:gravity="center_horizontal"
-        android:text="Memu"
+        android:text="Menu"
         android:textSize="36sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
