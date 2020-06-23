@@ -18,6 +18,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.487"
         app:layout_constraintStart_toStartOf="parent"
+        android:fontFamily="@font/bm_ttf"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="5:00" />
 
@@ -50,6 +51,7 @@
         android:layout_marginRight="68dp"
         android:gravity="center_vertical"
         android:text="떡볶이가 맛있게 익는 시간"
+        android:fontFamily="@font/bm_ttf"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/countdown_text"
         app:layout_constraintEnd_toEndOf="parent"

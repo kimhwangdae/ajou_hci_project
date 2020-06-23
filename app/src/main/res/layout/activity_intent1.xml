@@ -23,6 +23,7 @@
         android:layout_marginStart="25dp"
         android:layout_marginTop="25dp"
         android:text="떡볶이 재료"
+        android:fontFamily="@font/cafe"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
@@ -44,6 +45,8 @@
         android:layout_height="56dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
+        android:textSize="17dp"
+        android:fontFamily="@font/bm_ttf"
         android:text="떡볶이떡 350g, 어묵 150g, 당근 1/3개, 양배추 1/3개, 대파 1/3줄기, 메추리알 10개, 소스 1/2컵, 물 2컵, 후춧가루 약간"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
@@ -55,6 +58,7 @@
         android:layout_marginStart="25dp"
         android:layout_marginTop="16dp"
         android:text="소스 재료"
+        android:fontFamily="@font/cafe"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
@@ -66,6 +70,8 @@
         android:layout_height="37dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
+        android:textSize="17dp"
+        android:fontFamily="@font/bm_ttf"
         android:text="고춧가루 1/2컵, 온수 1/3컵, 고추장 1/3컵, 진간장 1/4컵, 설탕 1/2컵"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
@@ -77,6 +83,7 @@
         android:layout_marginStart="25dp"
         android:layout_marginTop="16dp"
         android:text="시간"
+        android:fontFamily="@font/cafe"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
@@ -89,6 +96,8 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:text="20분 소요"
+        android:textSize="17dp"
+        android:fontFamily="@font/bm_ttf"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 </androidx.constraintlayout.widget.ConstraintLayout>

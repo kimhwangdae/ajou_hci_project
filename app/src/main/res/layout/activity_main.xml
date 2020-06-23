@@ -24,6 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="떡볶이"
+        android:fontFamily="@font/danjunghae"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="40dp"
         app:layout_constraintBottom_toBottomOf="parent"
